@@ -1,0 +1,1 @@
+# Сияй [![Build status](https://ci.appveyor.com/api/projects/status/okv34gogq0b8mcag?svg=true)](https://ci.appveyor.com/project/Logerr23/autodz5-z1)
